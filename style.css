@@ -1,0 +1,26 @@
+#preload_btn{
+    background-color: purple;
+    color: white;
+}
+canvas{
+    border-radius: 30px;
+    border: 2px solid white;
+    box-shadow: crimson 20px, 20px;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(70, 69, 69);
+    color: White;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+}
